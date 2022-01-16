@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">ImmersionTime</string>
-    <string name="sound_button">Sound Button</string>
+    <string name="btnTxt_sound">Sound Button</string>
+    <string name="btnTxt_location">Find Location</string>
+    <string name="txt_lat">Lattitude: </string>
 </resources>
