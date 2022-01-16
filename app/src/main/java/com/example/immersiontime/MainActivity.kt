@@ -5,9 +5,9 @@ import android.os.Bundle
 import android.widget.Button
 import android.media.MediaPlayer
 
-var mMediaPlayer: MediaPlayer? = null
-
 class MainActivity : AppCompatActivity() {
+    private var mMediaPlayer: MediaPlayer? = null
+    
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
